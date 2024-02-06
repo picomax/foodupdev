@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="prefix__list-deal" width="26" height="26" viewBox="0 0 26 26">
+    <defs>
+        <style>
+            .prefix__cls-2,.prefix__cls-3{fill:none;stroke:#333;stroke-linecap:round;stroke-width:2px}.prefix__cls-2{stroke-linejoin:round}
+        </style>
+    </defs>
+    <g id="prefix__Group_1143" data-name="Group 1143" transform="translate(0 -.456)">
+        <path id="prefix__Rectangle_245" fill="none" d="M0 0H26V26H0z" data-name="Rectangle 245" transform="translate(0 .456)"/>
+        <g id="prefix__Group_1141" data-name="Group 1141" transform="translate(2.783 3.543)">
+            <g id="prefix__Group_1140" data-name="Group 1140">
+                <g id="prefix__Group_1139" data-name="Group 1139">
+                    <path id="prefix__Path_1605" d="M4124.31-191.087l12.007-7.4v19.889l-12.007-6.86z" class="prefix__cls-2" data-name="Path 1605" transform="translate(-4121.427 198.483)"/>
+                    <path id="prefix__Path_1606" d="M4139.409-194.51l1.723-2.021" class="prefix__cls-3" data-name="Path 1606" transform="translate(-4122.01 201.282)"/>
+                    <path id="prefix__Path_1608" d="M0 2.021L1.723 0" class="prefix__cls-3" data-name="Path 1608" transform="rotate(97 3.329 15.752)"/>
+                    <path id="prefix__Path_1607" d="M0 2.105L2.118 0" class="prefix__cls-3" data-name="Path 1607" transform="rotate(45 -1.164 27.519)"/>
+                    <path id="prefix__Path_1609" d="M4117.8-191.172v5.659h2.917v-5.659z" class="prefix__cls-2" data-name="Path 1609" transform="translate(-4117.799 198.621)"/>
+                    <path id="prefix__Path_1610" d="M4120.632-219.548s1.2 7.782 7.428 3.358" class="prefix__cls-3" data-name="Path 1610" transform="translate(-4119.173 232.656)"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

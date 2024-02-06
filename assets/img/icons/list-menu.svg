@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="prefix__list-menu" width="26" height="26" viewBox="0 0 26 26">
+    <defs>
+        <style>
+            .prefix__cls-1,.prefix__cls-2,.prefix__cls-4{fill:none}.prefix__cls-2,.prefix__cls-4{stroke:#333;stroke-width:2px;stroke-linecap:round}.prefix__cls-2{stroke-linejoin:round}
+        </style>
+    </defs>
+    <path id="prefix__Rectangle_248" d="M0 0H26V26H0z" class="prefix__cls-1" data-name="Rectangle 248"/>
+    <g id="prefix__Group_1162" data-name="Group 1162" transform="translate(-4186 -730)">
+        <g id="prefix__Group_1161" data-name="Group 1161" transform="translate(4183.28 727.584)">
+            <g id="prefix__Rectangle_249" data-name="Rectangle 249" transform="translate(5.72 4.416)">
+                <path id="prefix__Path_1632" d="M5.72 4.416h20.094l.1 21.1H5.82z" class="prefix__cls-1" data-name="Path 1632" transform="translate(-5.72 -4.416)"/>
+            </g>
+            <g id="prefix__Group_1192" data-name="Group 1192">
+                <rect id="prefix__Rectangle_250" width="18.085" height="19.089" class="prefix__cls-2" data-name="Rectangle 250" rx="2.519" transform="translate(6.724 5.421)"/>
+                <path id="prefix__Path_1630" fill="none" stroke="#333" stroke-width="2px" d="M11.454 6.011v19.142" data-name="Path 1630" transform="translate(-1.314 -.365)"/>
+                <path id="prefix__Line_54" d="M0 0L5.024 0" class="prefix__cls-4" data-name="Line 54" transform="translate(15.09 9.621)"/>
+                <path id="prefix__Path_1631" d="M14.657 24.659h9.984" class="prefix__cls-4" data-name="Path 1631" transform="translate(-2.047 -4.637)"/>
+                <path id="prefix__Path_1633" d="M16.867 23.907a3.764 3.764 0 1 1 7.521 0" class="prefix__cls-2" data-name="Path 1633" transform="translate(-2.937 -4.202)"/>
+            </g>
+        </g>
+    </g>
+</svg>

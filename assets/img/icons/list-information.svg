@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="prefix__list-information" width="26" height="26" viewBox="0 0 26 26">
+    <defs>
+        <style>
+            .prefix__cls-1{fill:none}.prefix__cls-5{stroke:none}
+        </style>
+    </defs>
+    <path id="prefix__Rectangle_198" d="M0 0H26V26H0z" class="prefix__cls-1" data-name="Rectangle 198"/>
+    <g id="prefix__Group_1166" data-name="Group 1166" transform="translate(3 2)">
+        <g id="prefix__Path_1637" fill="none" data-name="Path 1637">
+            <path d="M10.5 0A10.5 10.5 0 1 1 0 10.5 10.5 10.5 0 0 1 10.5 0z" class="prefix__cls-5"/>
+            <path fill="#333" d="M10.5 2C5.813 2 2 5.813 2 10.5c0 4.687 3.813 8.5 8.5 8.5 4.687 0 8.5-3.813 8.5-8.5C19 5.813 15.187 2 10.5 2m0-2C16.299 0 21 4.701 21 10.5S16.299 21 10.5 21 0 16.299 0 10.5 4.701 0 10.5 0z"/>
+        </g>
+        <g id="prefix__Ellipse_61" fill="#fff" stroke="#333" stroke-width="2px" data-name="Ellipse 61" transform="translate(9 5)">
+            <circle cx="1.5" cy="1.5" r="1.5" class="prefix__cls-5"/>
+            <circle cx="1.5" cy="1.5" r=".5" class="prefix__cls-1"/>
+        </g>
+        <path id="prefix__Line_54" fill="none" stroke="#333" stroke-linecap="round" stroke-width="2px" d="M0 0L0 5" data-name="Line 54" transform="translate(10.5 10.5)"/>
+    </g>
+</svg>

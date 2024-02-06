@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26.008" height="26" viewBox="0 0 26.008 26">
+    <defs>
+        <style>
+            .prefix__cls-1,.prefix__cls-2{fill:none;stroke:#333;stroke-width:2px}.prefix__cls-1{stroke-miterlimit:10}.prefix__cls-2{stroke-linecap:round;stroke-linejoin:round}
+        </style>
+    </defs>
+    <g id="prefix__list-delivery" transform="translate(.007)">
+        <g id="prefix__Group_1164" data-name="Group 1164" transform="translate(1.796 -4.718)">
+            <path id="prefix__Line_48" d="M0 0L4.474 0" class="prefix__cls-1" data-name="Line 48" transform="translate(11.452 21.098)"/>
+            <g id="prefix__Group_1148" data-name="Group 1148" transform="translate(-.803 12.261)">
+                <path id="prefix__Path_1621" d="M7.292 21.288H5.686a1.082 1.082 0 0 1-1.016-1.137v-1.44a2.09 2.09 0 0 1 1.017-1.837l.828-.461a2.975 2.975 0 0 0 1.162-1.2l.89-1.66a2.338 2.338 0 0 1 2.039-1.291H16.1a1.884 1.884 0 0 1 1.56.878l1.475 2.225a2.126 2.126 0 0 0 1.3.919l2.388.533a1.411 1.411 0 0 1 1.036 1.412v1.7A1.021 1.021 0 0 1 22.9 21l-1.905.1" class="prefix__cls-1" data-name="Path 1621" transform="translate(.15 -12.261)"/>
+                <circle id="prefix__Ellipse_58" cx="2.065" cy="2.065" r="2.065" class="prefix__cls-1" data-name="Ellipse 58" transform="translate(7.842 6.772)"/>
+                <circle id="prefix__Ellipse_59" cx="2.065" cy="2.065" r="2.065" class="prefix__cls-1" data-name="Ellipse 59" transform="translate(17.013 6.772)"/>
+                <path id="prefix__Line_49" d="M0 0L2.596 0" class="prefix__cls-2" data-name="Line 49" transform="translate(0 6.191)"/>
+                <path id="prefix__Line_50" d="M0 0L1.174 0" class="prefix__cls-2" data-name="Line 50" transform="translate(1.422 8.829)"/>
+            </g>
+        </g>
+        <path id="prefix__Rectangle_251" fill="none" d="M0 0H26V26H0z" data-name="Rectangle 251"/>
+    </g>
+</svg>
